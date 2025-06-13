@@ -9,7 +9,7 @@
 
 <div align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=onethsayakkara&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=OnethSayakkara&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
     alt="Profile Views"
   />
 </div>
