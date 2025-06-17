@@ -3,7 +3,7 @@
 <picture decoding="async" loading="lazy">
   <img 
     alt="github stats" 
-    src="https://pixel-profile.vercel.app/api/github-stats?username=OnethSayakkara&theme=road_trip&dithering=true&hide=avatar&timestamp=now">
+    src="https://pixel-profile.vercel.app/api/github-stats?username=OnethSayakkara&theme=fuji&dithering=true&hide=avatar&timestamp=now">
 </picture>
 
 
