@@ -6,7 +6,6 @@
     src="https://pixel-profile.vercel.app/api/github-stats?username=OnethSayakkara&theme=fuji&dithering=true&hide=avatar&timestamp=now">
 </picture>
 
-
 <div align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=OnethSayakkara&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
