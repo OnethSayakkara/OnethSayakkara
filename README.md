@@ -13,7 +13,7 @@
   />
 </div>
 
-### 🛠 Languages and Tools
+### 🛠 Languages and Tool
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
